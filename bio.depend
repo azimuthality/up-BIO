@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654322216 source:c:\users\enigma\desktop\тестовые проекты\bio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
